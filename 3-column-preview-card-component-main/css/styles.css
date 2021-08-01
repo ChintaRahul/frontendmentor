@@ -34,7 +34,7 @@ body {
 
 .container {
   display: flex;
-  padding: 3em 25em;
+  padding: 3em 15em;
   justify-content: center;
 }
 
