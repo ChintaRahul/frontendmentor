@@ -51,11 +51,12 @@ body {
   max-width: 100%;
   display: block;
   background-repeat: no-repeat, repeat;
-  background: url("../images/image-header-desktop.jpg");
+  background-image: url("../images/image-header-desktop.jpg");
   background-color:var(--soft-violet);
   background-blend-mode: multiply;
   border-top-right-radius: 0.5rem;
   border-bottom-right-radius: 0.5rem;
+  background-size:cover;
 }
 
 .title {
