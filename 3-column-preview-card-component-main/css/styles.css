@@ -36,7 +36,6 @@ body {
   display: flex;
   padding: 3em 25em;
   justify-content: center;
-  align-items: center;
 }
 
 .card {
